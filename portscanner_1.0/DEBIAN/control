@@ -1,0 +1,9 @@
+Package: portscanner
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: Lorenzo Orlando orlandolorenzomk@gmail.com
+Description: Fast and configurable TCP port scanner written in C
+ A small CLI tool to scan TCP ports with concurrency and timeout control.
+
