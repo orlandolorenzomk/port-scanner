@@ -1,9 +1,0 @@
-Package: oki-portscanner
-Version: 1.0
-Section: utils
-Priority: optional
-Architecture: amd64
-Maintainer: Your Name <your.email@example.com>
-Description: Fast and configurable TCP port scanner written in C
- A small CLI tool to scan TCP ports with concurrency and timeout control.
-
